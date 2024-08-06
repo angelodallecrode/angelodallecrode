@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelodallecrode
 - 👀 I’m interested in Web Developer and CyberSecurity.
-- 🌱 I’m currently learning Full Stack Web Developer.
+- 🌱 I am currently studying software engineering
 
 
 <!---
