@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelodallecrode
-- 👀 I’m interested in Web Developer and CyberSecurity.
-- 🌱 I am currently studying software engineering
+- 👀 Interested in AI, Web Development, and Solutions Engineering
+- 🌱 Currently studying Software Engineering
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
